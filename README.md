@@ -1,2 +1,2 @@
-# Customer_churn_1
+# Customer_churn
 customer churn prediction using deep learning
